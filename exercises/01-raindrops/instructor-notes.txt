@@ -1,0 +1,9 @@
+Raindrops notes
+
+Raindrops const -- class or module?
+Either way, do they understand `self.` for class methods or module methods?
+Table-driven tests?
+  - eval
+  - array.each splatting to two block args
+
+Test auto-runner? guard - maybe mention, but don't pursue
